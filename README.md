@@ -1,3 +1,8 @@
+Gravatar Library
+==============
+
+generate Gravatar URLs Based on gravatar specification http://en.gravatar.com/site/implement/images/
+
 LICENSE
 ==============
 
