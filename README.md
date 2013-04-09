@@ -2,6 +2,12 @@
 
 generate Gravatar URLs Based on gravatar specification http://en.gravatar.com/site/implement/images/
 
+##Run test
+grunt test
+
+##Install
+npm install gravatar-node
+
 ##License
 
 Copyright (C) 2013 Eduardo Diaz (@eduardo_l_diaz)
