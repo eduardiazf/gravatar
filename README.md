@@ -5,13 +5,13 @@ generate Gravatar URLs Based on gravatar specification http://en.gravatar.com/si
 
 ---------------------------------------
 
-AUTHOR
+Author
 ==============
 * Eduardo Diaz (@eduardo_l_diaz)
 
 ---------------------------------------
 
-LICENSE
+License
 ==============
 
 (The MIT License)
