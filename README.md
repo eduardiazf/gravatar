@@ -2,9 +2,6 @@
 
 generate Gravatar URLs Based on gravatar specification http://en.gravatar.com/site/implement/images/
 
-##Author
-- Eduardo Diaz (@eduardo_l_diaz)
-
 ##License
 
 Copyright (C) 2013 Eduardo Diaz (@eduardo_l_diaz)
