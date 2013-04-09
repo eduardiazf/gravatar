@@ -1,5 +1,5 @@
 {
-  "name": "gravatar",
+  "name": "gravatar-node",
   "version": "0.0.1",
   "description": "A library for gravatar URLs",
   "main": "index.js",
@@ -9,9 +9,13 @@
   "scripts": {
     "test": "grunt test"
   },
-  "repository": "",
-  "author": "Eduardo Diaz",
-  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/EduardoDiaz/gravatar.git"
+  },
+  "keywords": ["gravatar"],
+  "author": "Eduardo Diaz (@eduardo_l_diaz)",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.1",
     "should": "~1.2.2",
